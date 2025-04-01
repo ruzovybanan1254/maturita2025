@@ -1,0 +1,159 @@
+body, html {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #d1cccc;
+    margin: 0;
+    height:100%;
+    
+    padding: 0;
+    width: 100%;
+}
+
+header p, header{
+    color:#f8f9fa;
+    background-color: #333;
+    text-align:right;
+}
+header p{
+    padding:0 20px;
+}
+h1{
+    padding: 0;
+    background-color: #333;
+    margin: 0;
+    text-align: center;
+
+}
+
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    background-color: #333;
+    margin: 0;
+    text-align: center;
+}
+
+
+nav ul li {
+    display: inline-block;
+    margin: 15px;
+}
+
+nav ul li a, h1{
+    color: #f8f9fa;
+    text-decoration: none;
+    padding: 15px;
+}
+
+
+
+
+footer {
+    position: absolute; /* Change position to absolute */
+    display:flex;
+    flex-direction:column;
+    width: 100%;
+    background-color: #333;
+    color: #f8f9fa;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 14px; /* Add font size for better readability */
+}
+
+footer p {
+    margin: 0; /* Remove default margin for cleaner appearance */
+}
+#popis{
+    height:55px;
+    font-size:11pt;
+}
+table td, table th{
+    padding: 10px;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+table{
+    border-collapse: collapse;
+}
+table th{
+    background: #333;
+    color: #f8f9fa;
+}
+table tr td img {
+    width: 100%; /* Šířka obrázku bude vždy 100% šířky buňky tabulky */
+    max-width: 120px; /* Maximální šířka obrázku */
+    height: auto; /* Výška obrázku se automaticky přizpůsobí zachování poměru stran */
+}
+
+.content {
+    flex-direction:column;
+    text-align: center;
+    width:100%;
+    margin: 0 auto;
+    background-color: #d1cccc;
+    min-height:90vh;
+    margin-bottom:30px;
+}
+.content table{
+    margin: 0 auto;
+}
+.form{
+    background: #b3a8a8;
+}
+input,textarea,select {
+    margin: 10px;
+    padding:10px;
+}
+
+table input,table textarea,table select{
+    background: #e8e8e8;
+    margin:auto 0;
+    padding:3px;
+    border:none;
+    width: 85%;
+    height:2rem;
+}
+input[type='file']{
+    height:fit-content;
+    padding: 5px 0;
+}
+
+.button{
+    border:none;
+    background: #333;
+    color: white;
+    padding:10px;
+    margin:20px;
+    width: fit-content;
+    text-decoration:none;
+    font-size:1rem;
+}
+
+.seznam{
+    background: #b3a8a8;
+}
+.detail_button:hover{
+    width:100%;
+    margin: 0 auto;
+    background-color: #d1cccc;
+    transform: scale(110%);
+}
+.detail_button{
+    background-color: #b3a8a8;
+}
+.detail{
+    background: #b3a8a8;
+    width: fit-content;
+    max-width: 50%;
+    border: 2px solid black;
+    margin: 10px auto;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+.detail img{
+    width: 100%;
+    max-width: 50%;
+    height: auto;
+}
