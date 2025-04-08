@@ -29,7 +29,7 @@
 | 9.     | 46.   | Romain Rolland          | [Petr a Lucie](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/9.%20Petr%20a%20Lucie/%5BROLLAND%5D%20Petr%20a%20Lucie.pdf)                |
 | 10.    | 50.   | Eugène Ionesco          | Plešatá zpěvačka            |
 | 11.    | 52.   | Ray Bradbury            | 451° Fahrenheita            |
-| 12.    | 58.   | George Orwell           | Farma zvířat                |
+| 12.    | 58.   | George Orwell           | [Farma zvířat](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/12.%20Farma%20zv%C3%AD%C5%99at/%5BORWELL%5D%20Farma%20zv%C3%AD%C5%99at.pdf) |
 
 ## Česká literatura 20. a 21. století
 
