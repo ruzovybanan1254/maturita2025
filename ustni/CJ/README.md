@@ -26,7 +26,7 @@
 | Pořadí | Kánon | Autor                 | Titul                       |
 | ------ | ----- | --------------------- | --------------------------- |
 | 8.     | 44.   | Erich Maria Remarque    | Na západní frontě klid      |
-| 9.     | 46.   | Romain Rolland          | Petr a Lucie                |
+| 9.     | 46.   | Romain Rolland          | [Petr a Lucie](https://github.com/ruzovybanan1254/maturita2025/edit/main/ustni/CJ/9.Petr a Lucie)                |
 | 10.    | 50.   | Eugène Ionesco          | Plešatá zpěvačka            |
 | 11.    | 52.   | Ray Bradbury            | 451° Fahrenheita            |
 | 12.    | 58.   | George Orwell           | Farma zvířat                |
