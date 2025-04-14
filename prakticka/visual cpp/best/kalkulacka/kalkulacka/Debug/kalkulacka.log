@@ -1,0 +1,18 @@
+﻿  kalkulacka.cpp
+C:\Users\vojta\Desktop\klak\lisztwan\kalkulacka\kalkulacka\Form1.h(1265,20): warning C4101: prvni: neodkazovaná lokální proměnná
+  (kompilování zdrojového souboru /kalkulacka.cpp)
+  
+C:\Users\vojta\Desktop\klak\lisztwan\kalkulacka\kalkulacka\Form1.h(1265,27): warning C4101: druhe: neodkazovaná lokální proměnná
+  (kompilování zdrojového souboru /kalkulacka.cpp)
+  
+C:\Users\vojta\Desktop\klak\lisztwan\kalkulacka\kalkulacka\Form1.h(1393,12): warning C4101: result: neodkazovaná lokální proměnná
+  (kompilování zdrojového souboru /kalkulacka.cpp)
+  
+C:\Users\vojta\Desktop\klak\lisztwan\kalkulacka\kalkulacka\Form1.h(1793,73): warning C4244: argument: double se převádí na float; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru /kalkulacka.cpp)
+  
+C:\Users\vojta\Desktop\klak\lisztwan\kalkulacka\kalkulacka\Form1.h(1816,72): warning C4244: argument: double se převádí na float; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru /kalkulacka.cpp)
+  
+  AssemblyInfo.obj : Našel se modul MSIL. Přírůstkové propojování je pro MSIL vypnuté. Provádí se úplné propojení.
+  kalkulacka.vcxproj -> C:\Users\vojta\Desktop\klak\lisztwan\kalkulacka\Debug\kalkulacka.exe
