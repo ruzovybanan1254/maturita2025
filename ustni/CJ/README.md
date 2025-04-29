@@ -19,7 +19,7 @@
 | 3.     | 21.   | Edgar Allan Poe         | Havran        |
 | 4.     | 25.   | Guy de Maupassant       | Kulička       |
 | 5.     | 26.   | Anton Pavlovič Čechov   | Višňový sad   |
-| 6.     | 31.   | Karel Havlíček Borovský | Král Lávra    |
+| 6.     | 31.   | Karel Havlíček Borovský | [Král Lávra](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/kral_lavra.pdf)    |
 | 7.     | 40.   | Alois a Vilém Mrštíkové  | Maryša        |
 
 ## Světová literatura 20. a 21. století
