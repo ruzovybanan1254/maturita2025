@@ -9,7 +9,7 @@
 
 | Pořadí | Kánon | Autor         | Titul       |
 | ------ | ----- | ------------- | ----------- |
-| 1.     | 9.    | Molière       | Lakomec     |
+| 1.     | 9.    | Molière       | [Lakomec](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/%5BMOLIERE%5D%20Lakomec.pdf)     |
 | 2.     | 14.   | Carlo Goldoni | Sluhové dvou pánů |
 
 ## Světová a česká literatura 19. století
@@ -39,7 +39,7 @@
 | 13.    | 66.   | Karel Čapek         | R.U.R.                      |
 | 14.    | 69.   | Ivan Olbracht        | Nikola Šuhaj loupežník     |
 | 15.    | 73.   | Franz Kafka         | Proměna                     |
-| 16.    | 76.   | Ladislav Fuks       | Spalovač mrtvol             |
+| 16.    | 76.   | Ladislav Fuks       | [Spalovač mrtvol](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/%5BFUKS%5D%20Spalovau%CC%88%20mrtvol.pdf)             |
 | 17.    | 96.   | Václav Havel        | Audience                    |
 | 18.    | 97.   | Karin Lednická      | Šikmý kostel                |
 | 19.    | 99.   | Smoljak a Svěrák    | Vyšetřování ztráty třídní knihy |
