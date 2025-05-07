@@ -10,7 +10,7 @@
 | Pořadí | Kánon | Autor         | Titul       |
 | ------ | ----- | ------------- | ----------- |
 | 1.     | 9.    | Molière       | [Lakomec](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/%5BMOLIERE%5D%20Lakomec.pdf)     |
-| 2.     | 14.   | Carlo Goldoni | Sluhové dvou pánů |
+| 2.     | 14.   | Carlo Goldoni | Sluhova dvou pánů |
 
 ## Světová a česká literatura 19. století
 
