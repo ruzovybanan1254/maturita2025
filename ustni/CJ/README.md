@@ -40,7 +40,7 @@
 | 14.    | 69.   | Ivan Olbracht        | Nikola Šuhaj loupežník     |
 | 15.    | 73.   | Franz Kafka         | Proměna                     |
 | 16.    | 76.   | Ladislav Fuks       | [Spalovač mrtvol](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/%5BFUKS%5D%20Spalovau%CC%88%20mrtvol.pdf)             |
-| 17.    | 96.   | Václav Havel        | Audience                    |
+| 17.    | 96.   | Václav Havel        | [Audience](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/Audience/Audience.pdf)                    |
 | 18.    | 97.   | Karin Lednická      | [Šikmý kostel](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/%C5%A1ikm%C3%BD%20kostel.pdf)                |
 | 19.    | 99.   | Smoljak a Svěrák    | Vyšetřování ztráty třídní knihy |
 | 20.    | 100.  | Smoljak a Svěrák    | Dlouhý, Široký a Krátkozraký |
