@@ -7,15 +7,15 @@
 
 ## Světová a česká literatura do konce 18. století
 
-| Pořadí | Kánon | Autor         | Titul       |
-| ------ | ----- | ------------- | ----------- |
-| 1.     | 9.    | Molière       | [Lakomec](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/%5BMOLIERE%5D%20Lakomec.pdf)     |
-| 2.     | 14.   | Carlo Goldoni | Sluhova dvou pánů |
+| Pořadí | Kánon | Autor         | Titul       | Žánr       |
+| ------ | ----- | ------------- | ----------- | ----------- |
+| 1.     | 9.    | Molière       | [Lakomec](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/%5BMOLIERE%5D%20Lakomec.pdf)     | ----------- |
+| 2.     | 14.   | Carlo Goldoni | Sluhova dvou pánů | ----------- |
 
 ## Světová a česká literatura 19. století
 
-| Pořadí | Kánon | Autor                   | Titul         |
-| ------ | ----- | ----------------------- | ------------- |
+| Pořadí | Kánon | Autor                   | Titul         | Žánr       |
+| ------ | ----- | ----------------------- | ------------- |----------- |
 | 3.     | 21.   | Edgar Allan Poe         | Havran        |
 | 4.     | 25.   | Guy de Maupassant       | Kulička       |
 | 5.     | 26.   | Anton Pavlovič Čechov   | Višňový sad   |
@@ -24,8 +24,8 @@
 
 ## Světová literatura 20. a 21. století
 
-| Pořadí | Kánon | Autor                 | Titul                       |
-| ------ | ----- | --------------------- | --------------------------- |
+| Pořadí | Kánon | Autor                 | Titul                       | Žánr       |
+| ------ | ----- | --------------------- | --------------------------- |----------- |
 | 8.     | 44.   | Erich Maria Remarque    | Na západní frontě klid      |
 | 9.     | 46.   | Romain Rolland          | [Petr a Lucie](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/9.%20Petr%20a%20Lucie/%5BROLLAND%5D%20Petr%20a%20Lucie.pdf)                |
 | 10.    | 50.   | Eugène Ionesco          | Plešatá zpěvačka            |
@@ -34,8 +34,8 @@
 
 ## Česká literatura 20. a 21. století
 
-| Pořadí | Kánon | Autor             | Titul                       |
-| ------ | ----- | ----------------- | --------------------------- |
+| Pořadí | Kánon | Autor             | Titul                       | Žánr       |
+| ------ | ----- | ----------------- | --------------------------- |----------- |
 | 13.    | 66.   | Karel Čapek         | R.U.R.                      |
 | 14.    | 69.   | Ivan Olbracht        | Nikola Šuhaj loupežník     |
 | 15.    | 73.   | Franz Kafka         | Proměna                     |
