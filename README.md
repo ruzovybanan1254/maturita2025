@@ -45,4 +45,3 @@
 * [18. Konstrukční uspořádání PC - sockety, chlazení, chipsety]
 * [19. Konstrukční uspořádání PC - typy a charakteristiky sběrnic]
 * [20. Konstrukční uspořádání PC - typy a charakteristiky rozhraní]
-* 
