@@ -41,7 +41,7 @@
 * [14. Organizační struktura pevného disku operačním systémem Windows]
 * [15. Souborové systémy FAT a FAT32, NTFS a exFAT]
 * [16. Zdroje PC, BIOS, UEFI a proces bootování PC]
-* [17. Konstrukční uspořádání PC - typy pamětí a jejich funkce v PC]
+* [17. Konstrukční uspořádání PC - typy pamětí a jejich funkce v PC](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/mujHaw/17.%20Kosntruk%C4%8Dn%C3%AD%20-%20typy%20pam%C4%9Bt%C3%AD.pdf)
 * [18. Konstrukční uspořádání PC - sockety, chlazení, chipsety]
 * [19. Konstrukční uspořádání PC - typy a charakteristiky sběrnic]
 * [20. Konstrukční uspořádání PC - typy a charakteristiky rozhraní]
