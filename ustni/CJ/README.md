@@ -10,7 +10,7 @@
 | Pořadí | Kánon | Autor         | Titul       | Žánr       |
 | ------ | ----- | ------------- | ----------- | ----------- |
 | 1.     | 9.    | Molière       | [Lakomec](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/%5BMOLIERE%5D%20Lakomec.pdf)     | Drama - komedie |
-| 2.     | 14.   | Carlo Goldoni | Sluhova dvou pánů | komedie|
+| 2.     | 14.   | Carlo Goldoni | [Sluha dvou pánů](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/Sluh%20dvou%20p%C3%A1n%C5%AF.pdf) | komedie|
 
 ## Světová a česká literatura 19. století
 
