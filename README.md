@@ -29,7 +29,7 @@
 * [2. Mikroprocesor](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/mujHaw/2.%20Mikroprocesor.pdf)
 * [3. Programovatelné a neprogramovatelné logické obvody]
 * [4. Přenos dat, rozdělení pamětí a jejich organizace]
-* [5. A/D převodníky]
+* [5. A/D převodníky](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/haw/HAW_Otazka5.pdf)
 * [6. Operační systém a plánování procesů]
 * [7. Synchronizace procesů]
 * [8. Řízení operační paměti]
