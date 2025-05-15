@@ -43,4 +43,4 @@
 | 17.    | 96.   | Václav Havel        | [Audience](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/Audience/Audience.pdf)                    |absurdní drama|
 | 18.    | 97.   | Karin Lednická      | [Šikmý kostel](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/%C5%A1ikm%C3%BD%20kostel.pdf)                |román, románová kronika|
 | 19.    | 99.   | Smoljak a Svěrák    | Vyšetřování ztráty třídní knihy |komedie|
-| 20.    | 100.  | Smoljak a Svěrák    | Dlouhý, Široký a Krátkozraký |komedie|
+| 20.    | 100.  | Smoljak a Svěrák    | [Dlouhý, Široký a Krátkozraký](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/dlouh%C3%BD%20%C5%A1irok%C3%BD%20a%20kr%C3%A1tkozrak%C3%BD.pdf) |komedie|
