@@ -28,7 +28,7 @@
 * [1. Programovací jazyk C]
 * [2. Mikroprocesor](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/mujHaw/2.%20Mikroprocesor.pdf)
 * [3. Programovatelné a neprogramovatelné logické obvody]
-* [4. Přenos dat, rozdělení pamětí a jejich organizace]
+* [4. Přenos dat, rozdělení pamětí a jejich organizace](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/mujHaw/4.%20P%C5%99enos%20dat%2C%20rozd%C4%9Blen%C3%AD%20pam%C4%9Bt%C3%AD%20a%20jejich%20organizace.pdf)
 * [5. A/D převodníky](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/haw/HAW_Otazka5.pdf)
 * [6. Operační systém a plánování procesů]
 * [7. Synchronizace procesů]
