@@ -45,6 +45,24 @@ Třída: 4.B
 | 19.    | 99.   | Smoljak a Svěrák   | [Vyšetřování ztráty třídní knihy](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/Vy%C5%A1et%C5%99ov%C3%A1n%C3%AD%20ztr%C3%A1ty%20t%C5%99%C3%ADdn%C3%AD%20knihy.pdf) | Komedie                   | Smoljak: 1931–2010, Svěrák: nar. 1936, moderní humor, parodie |
 | 20.    | 100.  | Smoljak a Svěrák   | [Dlouhý, Široký a Krátkozraký](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/dlouh%C3%BD%20%C5%A1irok%C3%BD%20a%20kr%C3%A1tkozrak%C3%BD.pdf) | Komedie   
 
+---
+## Funční styly
+**A prostě se opřu**
+<ul>
+  <li>Administrativní</li>
+  <li>Prostěsdělovací</li>
+  <li>Odborný</li>
+  <li>Publicistický</li>
+  <li>Řečnický</li>
+  <li>Umělecký</li>
+</ul>
 
-
-
+## Slohové postupy
+**V pivu**
+<ul>
+  <li>Vyprávěcí</li>
+  <li>Popisný</li>
+  <li>Informační</li>
+  <li>Výkladový</li>
+  <li>Úvahový</li>
+</ul>
