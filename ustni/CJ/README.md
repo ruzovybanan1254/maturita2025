@@ -7,20 +7,20 @@ Třída: 4.B
 
 ## Světová a česká literatura do konce 18. století
 
-Pořadí | Kánon | Autor         | Titul       | Žánr             | Období a směr |
--------|-------|---------------|-------------|------------------|----------------------------|
-1.     | 9.    | Molière       | Lakomec     | Drama - komedie  | 1622–1673, klasicismus|
-2.     | 14.   | Carlo Goldoni | Sluha dvou pánů | Komedie     | 1707–1793, osvícenství, klasicismus|
+|Pořadí | Kánon | Autor         | Titul       | Žánr             | Období a směr |
+|-------|-------|---------------|-------------|------------------|----------------------------|
+|1.     | 9.    | Molière       | Lakomec     | Drama - komedie  | 1622–1673, klasicismus|
+|2.     | 14.   | Carlo Goldoni | Sluha dvou pánů | Komedie     | 1707–1793, osvícenství, klasicismus|
 
 ## Světová a česká literatura 19. století
 
-Pořadí | Kánon | Autor                   | Titul         | Žánr               | Období a směr|
--------|-------|-------------------------|---------------|--------------------|-------------------------------|
-3.     | 21.   | Edgar Allan Poe         | Havran        | Balladická báseň   | 1809–1849, romantismus|
-4.     | 25.   | Guy de Maupassant       | Kulička       | Povídka            | 1850–1893, realismus, naturalismus|
-5.     | 26.   | Anton Pavlovič Čechov   | Višňový sad   | Tragikomedie       | 1860–1904, realismus|
-6.     | 31.   | Karel Havlíček Borovský | Král Lávra    | Satirická báseň    | 1821–1856, národní obrození, realismus|
-7.     | 40.   | Alois a Vilém Mrštíkové | Maryša        | Tragédie           | Alois: 1861–1925, Vilém: 1863–1912, realismus|
+|Pořadí | Kánon | Autor                   | Titul         | Žánr               | Období a směr|
+|-------|-------|-------------------------|---------------|--------------------|-------------------------------|
+|3.     | 21.   | Edgar Allan Poe         | Havran        | Balladická báseň   | 1809–1849, romantismus|
+|4.     | 25.   | Guy de Maupassant       | Kulička       | Povídka            | 1850–1893, realismus, naturalismus|
+|5.     | 26.   | Anton Pavlovič Čechov   | Višňový sad   | Tragikomedie       | 1860–1904, realismus|
+|6.     | 31.   | Karel Havlíček Borovský | Král Lávra    | Satirická báseň    | 1821–1856, národní obrození, realismus|
+|7.     | 40.   | Alois a Vilém Mrštíkové | Maryša        | Tragédie           | Alois: 1861–1925, Vilém: 1863–1912, realismus|
 
 ## Světová literatura 20. a 21. století
 
