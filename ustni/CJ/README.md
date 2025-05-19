@@ -38,7 +38,7 @@ Třída: 4.B
 |--------|-------|-------------------|--------------------------------|-----------------------------|-------------------------------|
 | 13.    | 66.   | Karel Čapek        | R.U.R.                         | Antiutopické drama          | 1890–1938, sci-fi, expresionismus |
 | 14.    | 69.   | Ivan Olbracht      | Nikola Šuhaj loupežník         | Balladický román            | 1882–1952, socialistický realismus |
-| 15.    | 73.   | [Franz Kafka](https://github.com/ruzovybanan1254/maturita2025/tree/main/ustni/CJ)        | Proměna                        | Povídka                     | 1883–1924, expresionismus, existencialismus |
+| 15.    | 73.   | [Franz Kafka](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/Kafka.md)        | Proměna                        | Povídka                     | 1883–1924, expresionismus, existencialismus |
 | 16.    | 76.   | Ladislav Fuks      | [Spalovač mrtvol](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/%5BFUKS%5D%20Spalovau%CC%88%20mrtvol.pdf) | Psychologická hororová novela | 1923–1994, existencialismus, psychologická próza |
 | 17.    | 96.   | Václav Havel       | [Audience](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/Audience/Audience.pdf)         | Absurdní drama              | 1936–2011, absurdní drama, disidentská literatura |
 | 18.    | 97.   | Karin Lednická     | [Šikmý kostel](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/%C5%A1ikm%C3%BD%20kostel.pdf) | Román, románová kronika     | nar. 1969, současná literatura |
