@@ -4,6 +4,8 @@
 
 [**Zpět na hlavní stránku**](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/README.md)
 
+[Carlo goldoni](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_R53GYmgK4X-ZzMVuxebCYWvESDwiZ-oSJ4QFCXe7k-jG1219XHwtg8cZ62JIHuW41pIz0k-9wlx90f3GdGEF0Q)
+
 ## Základní informace, které byste měli znát:
 
 * **Reforma italské komedie:** Goldoni se zasadil o reformu tehdejší italské komedie, která byla do značné míry improvizovaná a založená na ustálených typech postav (commedia dell'arte). Zavedl pevně napsané texty her s propracovanými charaktery a zápletkami.
