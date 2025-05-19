@@ -1,7 +1,8 @@
 # Molière
 
 [**Zpět na hlavní stránku**](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/README.md)
-![Moliere](https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSggfiFfZj8EnYsXuaaiIh-htjvMEi67dkrEAxIArLoKZ9d3IRPPj_PUhjETJXr-C6HkkUfb4cK_zfuclc)
+<img src="https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSggfiFfZj8EnYsXuaaiIh-htjvMEi67dkrEAxIArLoKZ9d3IRPPj_PUhjETJXr-C6HkkUfb4cK_zfuclc" alt="Havran ilustrace" width="400"/>
+
 ## Základní informace
 - **Vlastním jménem:** Jean-Baptiste Poquelin  
 - **Žil:** 1622 – 1673  
