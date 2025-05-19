@@ -4,7 +4,7 @@
 
 [**Zpět na hlavní stránku**](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/README.md)
 
-[Carlo goldoni](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_R53GYmgK4X-ZzMVuxebCYWvESDwiZ-oSJ4QFCXe7k-jG1219XHwtg8cZ62JIHuW41pIz0k-9wlx90f3GdGEF0Q)
+![Carlo goldoni](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_R53GYmgK4X-ZzMVuxebCYWvESDwiZ-oSJ4QFCXe7k-jG1219XHwtg8cZ62JIHuW41pIz0k-9wlx90f3GdGEF0Q)
 
 ## Základní informace, které byste měli znát:
 
