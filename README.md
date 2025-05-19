@@ -13,7 +13,7 @@
 * [3. Programovatelné a neprogramovatelné logické obvody]
 * [4. Přenos dat, rozdělení pamětí a jejich organizace](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/mujHaw/4.%20P%C5%99enos%20dat%2C%20rozd%C4%9Blen%C3%AD%20pam%C4%9Bt%C3%AD%20a%20jejich%20organizace.pdf)
 * [5. A/D převodníky](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/haw/HAW_Otazka5.pdf)
-* [6. Operační systém a plánování procesů]
+* [6. Operační systém a plánování procesů](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/mujHaw/6.%20OS%2C%20pl%C3%A1nov%C3%A1n%C3%AD%20proces%C5%AF.pdf)
 * [7. Synchronizace procesů]
 * [8. Řízení operační paměti]
 * [9. Řízení vnější paměti](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/mujHaw/9.%C5%98%C3%ADzen%C3%AD%20vn%C4%9Bj%C5%A1%C3%AD%20pam%C4%9Bti.pdf)
