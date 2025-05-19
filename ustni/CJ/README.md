@@ -10,7 +10,7 @@ Třída: 4.B
 | Pořadí | Kánon | Autor         | Titul       | Žánr             | Období a směr |
 |--------|-------|---------------|-------------|------------------|----------------------------|
 | 1.     | 9.    | Molière       | [Lakomec](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/%5BMOLIERE%5D%20Lakomec.pdf)     | Drama - komedie  | 1622–1673, klasicismus |
-| 2.     | 14.   | Carlo Goldoni | [Sluha dvou pánů](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/Sluh%20dvou%20p%C3%A1n%C5%AF.pdf) | Komedie     | 1707–1793, osvícenství, klasicismus |
+| 2.     | 14.   | [Carlo Goldoni](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/Carlo.md) | [Sluha dvou pánů](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/Sluh%20dvou%20p%C3%A1n%C5%AF.pdf) | Komedie     | 1707–1793, osvícenství, klasicismus |
 
 ## Světová a česká literatura 19. století
 
