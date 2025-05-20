@@ -29,8 +29,8 @@
 * [19. Konstrukční uspořádání PC - typy a charakteristiky sběrnic]
 * [20. Konstrukční uspořádání PC - typy a charakteristiky rozhraní]
 
-##[Vypracovany HW od Richarda Milaty](https://drive.google.com/drive/folders/1Kv6pM0HkZroP0ZKmYEjMP27otvOZgvoi)
-[ZDE]()
+## [Vypracovany HW od Richarda Milaty](https://drive.google.com/drive/folders/1Kv6pM0HkZroP0ZKmYEjMP27otvOZgvoi)
+[ZDE](https://github.com/ruzovybanan1254/maturita2025/tree/main/ustni/HW_RICHARD_MILATA)
 
 ## Praktická maturita
 
