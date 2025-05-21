@@ -24,6 +24,15 @@
 * **Maska červené smrti** (*The Masque of the Red Death*) – Alegorická povídka o princovi a jeho hostech, kteří se snaží uniknout smrtelné nákaze v uzavřeném zámku.
 * **Černý kocour** (*The Black Cat*) – Příběh muže, který spáchá vraždu a je usvědčen vlastním svědomím i nadpřirozenými událostmi.
 
+## 👤 **Současníci Edgara Allana Poea**
+
+Edgar Allan Poe tvořil v první polovině 19. století v období romantismu. Mezi jeho významné současníky patřili:
+
+* **Nathaniel Hawthorne** – americký spisovatel, autor temných psychologických románů jako *Šarlatové písmeno*.  
+* **Herman Melville** – autor slavného románu *Moby Dick*, který se stejně jako Poe věnoval hlubokým psychologickým tématům.  
+* **Charles Dickens** – britský romanopisec, který zachycoval sociální realitu své doby.  
+
+
 ## Význam pro literaturu:
 
 Edgar Allan Poe měl hluboký vliv na světovou literaturu. Jeho práce položila základy moderní detektivky, psychologického hororu a symbolistní poezie. Inspiroval mnoho autorů včetně Arthura Conana Doyla, H. P. Lovecrafta či Charlese Baudelaira. Dodnes je považován za jednoho z nejvýznamnějších představitelů amerického romantismu a literatury vůbec.
