@@ -21,6 +21,16 @@
 * **Kavárna** (*La bottega del caffè*) - Komedie odehrávající se v benátské kavárně, která slouží jako místo setkávání různých typů lidí.
 * **Letní trilogie** (*Trilogia della villeggiatura*) - Soubor tří komedií (Návštěva, Návrat, Následky návštěvy) satiricky zobrazujících život benátské šlechty na venkovském letním sídle.
 
+## 👤 **Současníci Carla Goldoniho**
+
+Carlo Goldoni působil v 18. století, v době osvícenství a rozvoje měšťanské kultury. Mezi jeho současníky patřili:
+
+* **Voltaire** – francouzský filozof, dramatik a autor ostré společenské kritiky.  
+* **Denis Diderot** – osvícenský filozof a autor *Encyklopedie*, který se zajímal i o divadelní teorii.  
+* **Pietro Metastasio** – italský libretista a básník, který ovlivnil operu v celé Evropě.  
+
+
+
 ## Význam pro divadlo:
 
 Carlo Goldoni měl zásadní vliv na vývoj italského a evropského divadla. Jeho snaha o realističtější a literárně hodnotnější komedii připravila půdu pro další dramatiky a ovlivnila vývoj moderního dramatu. Jeho hry se dodnes hrají po celém světě pro svou vtipnost, živost a nadčasová témata.
