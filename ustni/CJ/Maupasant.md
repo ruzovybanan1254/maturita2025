@@ -23,6 +23,14 @@
 * **Silná jako smrt** (*Fort comme la mort*) – Román o umělci a jeho vztahu k ženám, stárnutí a ztrátě krásy.
 * **Horla** (*Le Horla*) – Hororová povídka o šílenství a neviditelné bytosti, považována za předchůdce psychologického hororu.
 
+## 👤 **Současníci Guye de Maupassanta**
+
+Guy de Maupassant tvořil ve druhé polovině 19. století, v období realismu a naturalismu. Mezi jeho současníky patřili:
+
+* **Émile Zola** – zakladatel literárního naturalismu, který ovlivnil Maupassantův styl i témata.  
+* **Henrik Ibsen** – norský dramatik, který stejně jako Maupassant zobrazoval konflikty jednotlivce se společností.  
+* **Anton Pavlovič Čechov** – ruský mistr krátké povídky a dramat, který se Maupassantem inspiroval.  
+
 ## Význam pro literaturu:
 
 Guy de Maupassant je považován za jednoho z největších mistrů krátké povídky. Jeho práce ovlivnila generace autorů včetně Antona Pavloviče Čechova, Stephena Cranea a Ernesta Hemingwaye. Ukázal, že i na malém prostoru lze vystavět silný příběh s hlubokou psychologií.
