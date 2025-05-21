@@ -5,7 +5,7 @@
 [**Zpět na hlavní stránku**](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/README.md)
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Edgar_Allan_Poe_2_retouched_and_transparent_bg.png/800px-Edgar_Allan_Poe_2_retouched_and_transparent_bg.png" alt="Edgar Allan Poe" width="300">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg/250px-Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg" alt="Edgar Allan Poe" width="300">
 </div>
 
 ## Základní informace, které byste měli znát:
