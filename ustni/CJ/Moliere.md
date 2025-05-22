@@ -21,6 +21,7 @@
 ## Významná díla
 - **Tartuffe** – kritika náboženského pokrytectví (zakázaná církví)
 - **Lakomec** – postava Harpagona jako symbol chorobné lakoty
+  - Inspiroval se u Plautuse Komedie o hrnci
 - **Zdravý nemocný** – satira na hypochondry a lékaře
 - **Misantrop** – konflikt mezi upřímností a přetvářkou ve společnosti
 - **Don Juan** – téma svůdníka a bezbožníka
