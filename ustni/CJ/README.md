@@ -20,7 +20,7 @@ Třída: 4.B
 | 4.     | 25.   | [Guy de Maupassant](./Maupasant.md)     | [Kulička](./Kuli%C4%8Dka.pdf)       | Povídka            | 1850–1893, realismus, naturalismus | Francie            | Mme. Baptistine, Kulička                |
 | 5.     | 26.   | Anton Pavlovič Čechov   | Višňový sad   | Tragikomedie       | 1860–1904, realismus               | Rusko              | Ranevská, Lopachin, Trofimov            |
 | 6.     | 31.   | Karel Havlíček Borovský | [Král Lávra](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/kral_lavra.pdf)    | Satirická báseň    | 1821–1856, národní obrození, realismus | Česko              | Král Lávra, Raroh                      |
-| 7.     | 40.   | Alois a Vilém Mrštíkové | [Maryša](./Maryša.pdf)        | Tragédie           | Alois: 1861–1925, Vilém: 1863–1912, realismus | Česko              | Maryša, Franěk, Lízal                   |
+| 7.     | 40.   | [Alois a Vilém Mrštíkové](./Mrstikove.md) | [Maryša](./Maryša.pdf)        | Tragédie           | Alois: 1861–1925, Vilém: 1863–1912, realismus | Česko              | Maryša, Franěk, Lízal                   |
 
 ## Světová literatura 20. a 21. století
 
