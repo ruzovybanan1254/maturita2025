@@ -1,5 +1,7 @@
 # 🕰️ Časová osa světové a české literatury s komentáři
 
+[Zpět na main page](./README.md)
+
 ---
 
 ## 🏺 Starověk (do 500 př. n. l.)
