@@ -46,6 +46,8 @@ Třída: 4.B
 | 20.    | 100.  | Smoljak a Svěrák   | [Dlouhý, Široký a Krátkozraký](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/dlouh%C3%BD%20%C5%A1irok%C3%BD%20a%20kr%C3%A1tkozrak%C3%BD.pdf) | Komedie                   | Smoljak: 1931–2010, Svěrák: nar. 1936, moderní humor, parodie | Česko              | Dlouhý, Široký, Krátkozraký          |
 
 ---
+## [Rusti autori](./Rusko.md)
+---
 
 ## Funční styly
 **A prostě se opřu**
