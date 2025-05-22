@@ -1,5 +1,5 @@
 # Karel Čapek
-[Zpět na main page](./README.md)
+[Zpět na main page](./README.md)<br>
 **Karel Čapek** (9. ledna 1890 – 25. prosince 1938) byl významný český spisovatel, dramatik, novinář a filosof. Patří mezi nejvlivnější české autory 20. století a jeho díla jsou známá i v zahraničí.
 
 ## Život
