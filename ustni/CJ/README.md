@@ -38,7 +38,7 @@ Třída: 4.B
 
 | Pořadí | Kánon | Autor             | Titul                          | Žánr                        | Období a směr                     | Země původu autora | Pár hlavních postav                     |
 |--------|-------|-------------------|--------------------------------|-----------------------------|----------------------------------|--------------------|---------------------------------------|
-| 13.    | 66.   | Karel Čapek        | R.U.R.                         | Antiutopické drama          | 1890–1938, sci-fi, expresionismus | Česko              | Rossum, Helena, Domin                   |
+| 13.    | 66.   | Karel Čapek        | [R.U.R.](./RUR.pdf)                         | Antiutopické drama          | 1890–1938, sci-fi, expresionismus | Česko              | Rossum, Helena, Domin                   |
 | 14.    | 69.   | [Ivan Olbracht](./Olbracht.md)      | [Nikola Šuhaj loupežník](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/Nikola%20%C5%A0uhaj%20Loupe%C5%BEn%C3%ADk.pdf)         | Balladický román            | 1882–1952, socialistický realismus | Česko              | Nikola Šuhaj, Erina                    |
 | 15.    | 73.   | [Franz Kafka](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/Kafka.md)        | Proměna                        | Povídka                     | 1883–1924, expresionismus, existencialismus | Rakousko-Uhersko | Gregor Samsa                          |
 | 16.    | 76.   | Ladislav Fuks      | [Spalovač mrtvol](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/%5BFUKS%5D%20Spalovau%CC%88%20mrtvol.pdf) | Psychologická hororová novela | 1923–1994, existencialismus, psychologická próza | Česko            | Jan Prokop, Olga                      |
