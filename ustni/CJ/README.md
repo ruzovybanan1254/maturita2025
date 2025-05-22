@@ -5,6 +5,8 @@ Jméno a příjmení: Vojtěch Lisztwan
 Třída: 4.B  
 Školní rok: 2024/2025
 
+[Časová osa](./osa.md)
+
 ## Světová a česká literatura do konce 18. století
 
 | Pořadí | Kánon | Autor         | Titul       | Žánr             | Období a směr                | Země původu autora | Pár hlavních postav                |
