@@ -1,6 +1,6 @@
 # Ruští autoři a jejich díla
 
-[Zpě na main page](./..)
+[Zpě na main page](./README.md)
 
 ## Fjodor Michajlovič Dostojevskij (1821–1881)
 Ruský spisovatel známý hlubokou psychologií postav, filozofickými tématy a existenciálními otázkami.
