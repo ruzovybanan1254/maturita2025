@@ -41,7 +41,7 @@ Ivan Olbracht studoval práva a filozofii, ale studium nedokončil. Pracoval jak
 - V jeho dílech se **realita často prolíná s baladickým mýtem**
 - Uměl výjimečně zachytit atmosféru **Podkarpatské Rusi**
 - Po roce 1945 pracoval v kulturní politice a byl oceňován tehdejším režimem
-
+- Podepsal Manifest sedmi, protože se mu nelíbila Stalinizace strany a vstup Gottwalda
 ---
 
 ## 🌟 Zajímavost
