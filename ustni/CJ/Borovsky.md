@@ -1,5 +1,7 @@
 # Karel Havlíček Borovský
 
+[Zpět na main page](./README.md)
+
 Karel Havlíček Borovský (1821–1856) byl český básník, novinář, publicista, politik a satirik. Patří k nejvýznamnějším osobnostem českého národního obrození a zakladatelům české politické žurnalistiky.
 
 ---
