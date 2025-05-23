@@ -1,5 +1,7 @@
 # Anton Pavlovič Čechov
 
+[Zpět na main page](./README.md)
+
 Anton Pavlovič Čechov (1860–1904) byl významný ruský dramatik, prozaik a lékař. Patří k největším mistrům krátké povídky a moderního psychologického dramatu.
 
 ---
