@@ -31,7 +31,7 @@ Třída: 4.B
 | 8.     | 44.   | Erich M. Remarque   | [Na západní frontě klid](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/Na%20zapadni%20fronte%20klid.pdf)  | Román               | 1898–1970, meziválečný realismus | Německo            | Paul Bäumer, Kat                     |
 | 9.     | 46.   | Romain Rolland      | [Petr a Lucie](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/9.%20Petr%20a%20Lucie/%5BROLLAND%5D%20Petr%20a%20Lucie.pdf)            | Novela              | 1866–1944, humanistický realismus | Francie            | Petr, Lucie                         |
 | 10.    | 50.   | Eugène Ionesco      | Plešatá zpěvačka        | Absurdní drama      | 1909–1994, absurdní drama       | Rumunsko/Francie   | Manžel, Manželka                    |
-| 11.    | 52.   | Ray Bradbury        | 451° Fahrenheita        | Antiutopický román  | 1920–2012, sci-fi, dystopie    | USA                | Guy Montag, Clarisse McClellan      |
+| 11.    | 52.   | Ray Bradbury        | [451° Fahrenheita](./451stupnu.pdf)        | Antiutopický román  | 1920–2012, sci-fi, dystopie    | USA                | Guy Montag, Clarisse McClellan      |
 | 12.    | 58.   | George Orwell       | [Farma zvířat](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/12.%20Farma%20zv%C3%AD%C5%99at/%5BORWELL%5D%20Farma%20zv%C3%AD%C5%99at.pdf) | Alegorický román    | 1903–1950, sociální kritika, alegorie | Velká Británie     | Napoleon, Snowball, Boxer           |
 
 ## Česká literatura 20. a 21. století
