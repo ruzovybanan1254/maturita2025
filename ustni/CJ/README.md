@@ -20,8 +20,8 @@ Třída: 4.B
 |--------|-------|-------------------------|---------------|--------------------|-----------------------------------|--------------------|----------------------------------------|
 | 3.     | 21.   | [Edgar Allan Poe](./Poe.md)         | [Havran](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/Havran%20Edgar%20Allan%20Poe.pdf)        | Balladická báseň   | 1809–1849, romantismus             | USA                | Vypravěč, Havran                        |
 | 4.     | 25.   | [Guy de Maupassant](./Maupasant.md)     | [Kulička](./Kuli%C4%8Dka.pdf)       | Povídka            | 1850–1893, realismus, naturalismus | Francie            | Mme. Baptistine, Kulička                |
-| 5.     | 26.   | Anton Pavlovič Čechov   | [Višňový sad](./Visnovy.pdf)   | Tragikomedie       | 1860–1904, realismus               | Rusko              | Ranevská, Lopachin, Trofimov            |
-| 6.     | 31.   | Karel Havlíček Borovský | [Král Lávra](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/kral_lavra.pdf)    | Satirická báseň    | 1821–1856, národní obrození, realismus | Česko              | Král Lávra, Raroh                      |
+| 5.     | 26.   | [Anton Pavlovič Čechov](./Cechov.pdf)   | [Višňový sad](./Visnovy.pdf)   | Tragikomedie       | 1860–1904, realismus               | Rusko              | Ranevská, Lopachin, Trofimov            |
+| 6.     | 31.   | [Karel Havlíček Borovský](./Borovsky.pdf) | [Král Lávra](https://github.com/ruzovybanan1254/maturita2025/blob/main/ustni/CJ/kral_lavra.pdf)    | Satirická báseň    | 1821–1856, národní obrození, realismus | Česko              | Král Lávra, Raroh                      |
 | 7.     | 40.   | [Alois a Vilém Mrštíkové](./Mrstikove.md) | [Maryša](./Maryša.pdf)        | Tragédie           | Alois: 1861–1925, Vilém: 1863–1912, realismus | Česko              | Maryša, Franěk, Lízal                   |
 
 ## Světová literatura 20. a 21. století
